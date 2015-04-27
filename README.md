@@ -1,2 +1,2 @@
 # hello-world
-This is a test sample page
+I am building this sample page to learn about version control.
